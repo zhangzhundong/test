@@ -1,0 +1,14 @@
+{
+    "name": "zhangzhundong/test",
+    "description": null,
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "zhang zhundong",
+            "email": "75090497@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
